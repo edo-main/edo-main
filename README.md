@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi!👋  
+## I'm a beginner Python developer. I'm also interested in making different projects with Arduino, 3D printing and modelling.
 
 <!--
 **edo-main/edo-main** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
